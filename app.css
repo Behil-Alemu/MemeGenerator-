@@ -1,0 +1,57 @@
+.image {
+    position: relative;
+    width: 20em;
+    height: 20em;
+    padding: 15px 32px;
+
+  }
+.topText {
+    position: absolute;
+    top: 38%;
+    left: 165px;
+    font-size: 25px;
+    color:whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+  }
+.bottomText {
+    position: absolute;
+    bottom: 24%;
+    left: 165px;
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+  }
+.remove {
+    position: absolute;
+    border-top: 2em;
+    color: white;
+    background-color:  #0000004f;
+    border: 2px rgb(160, 156, 156);
+    width: 40px;
+    height: 30px;
+    left: 41px;
+    bottom: 29pc;
+    
+}
+
+
+#submit{
+  background-color: rgb(107, 97, 97);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 4px;
+}
+#submit:hover{
+  background-color: rgb(128, 121, 121);
+ 
+}
+/* div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+} */
