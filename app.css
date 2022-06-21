@@ -6,8 +6,8 @@
 
   }
 .topText {
-    position: absolute;
-    top: 38%;
+    position: relative;
+    bottom: 330px;
     left: 165px;
     font-size: 25px;
     color:whitesmoke;
@@ -15,8 +15,8 @@
     
   }
 .bottomText {
-    position: absolute;
-    bottom: 24%;
+    position: relative;
+    bottom: 166px;
     left: 165px;
     font-size: 25px;
     color: whitesmoke;
@@ -24,7 +24,7 @@
   
   }
 .remove {
-    position: absolute;
+    position: relative;
     border-top: 2em;
     color: white;
     background-color:  #0000004f;
